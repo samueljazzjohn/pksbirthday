@@ -62,7 +62,7 @@ body {
 	}
 	50%
 	{
-		top:25rem;
+		top:22rem;
 		left: 75vw;
 	}
 	to
@@ -408,7 +408,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 /*-- //nav --*/
 /*-- //header --*/
 .banner1{
-	 background: url(../images/a21.jpeg)no-repeat 0px 0px;
+	 background: url(../images/a23.jpeg)no-repeat 0px 0px;
     background-size: cover;
     background-position: 40% 60% ;
     -webkit-background-size: cover;
@@ -419,7 +419,7 @@ nav.navbar.navbar-toggleable-md.navbar-light {
 } 
 /*--/banner --*/
 .main_section_agile{
-    background: url(../images/a21.jpeg)no-repeat 0px 0px;
+    background: url(../images/a23.jpeg)no-repeat 0px 0px;
     background-size: cover;
     background-position: 40% 60%  ;
     -webkit-background-size: cover;
